@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/awssed/YadroTestTask
 ```
-##Windows:
+## Windows:
 
 Чтобы собрать и скомпилировать проект на Windows, необходимо иметь установленный cmake и mingw с соответсвующими установленными записями в PATH.
 
@@ -22,7 +22,7 @@ build.bat
 TestTaskYadro.exe input.txt
 ```
 
-##Linux:
+## Linux:
 Чтобы собрать и скомпилировать проект на Cmake, необходимо иметь установленный gcc, clang и CMAKE.
 
 Скачав всё необходимое, нужно запустить файл buildLinux.sh:
