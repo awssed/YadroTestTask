@@ -32,9 +32,10 @@ chmod +x buildLinux.sh
 ```
 
 После этого появиться исполняемый файл TestTaskYadro
-
+## Важно!
+## Если при запуске в Linux появляется ошибка неправильно формата, то неоюходимо поставить во входном текстовом файле параметр LineEnding на Unix/Linux черех текстовый редактор.
 Пример запуска:
 ```
-./TestTaskYadro test_file.txt
+./TestTaskYadro input.txt
 ```
 
