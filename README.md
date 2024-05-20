@@ -1,8 +1,8 @@
 # TEST TASK YADRO.
 
-## Проект собирается на Windows и Linux c с помощью cmake
+## Проект собирается на Windows и Linux c  помощью cmake
 
-Снала необходимо клонировать репозиторий с помощью :
+Сначала необходимо клонировать репозиторий с помощью :
 ```
 git clone https://github.com/awssed/YadroTestTask
 ```
